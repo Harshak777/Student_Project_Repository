@@ -1,0 +1,11 @@
+
+.classpath
+.project
+.settings
+*.prefs
+*.component
+*.xml
+*.container
+*.name
+*.jar
+build
